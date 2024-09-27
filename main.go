@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func mian(){
-	fmt.Println("hello")
+	fmt.Println("Get the go change")
 }
